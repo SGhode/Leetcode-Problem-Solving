@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
@@ -54,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
