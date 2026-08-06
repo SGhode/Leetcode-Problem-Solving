@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
@@ -61,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
