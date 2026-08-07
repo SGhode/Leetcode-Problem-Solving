@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
