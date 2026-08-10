@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0039-combination-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
