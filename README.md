@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 ## Math
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
