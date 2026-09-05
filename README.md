@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 ## Greedy
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
