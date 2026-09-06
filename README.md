@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [3903-smallest-stable-index-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
