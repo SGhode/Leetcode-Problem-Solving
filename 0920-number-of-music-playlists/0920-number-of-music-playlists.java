@@ -7,11 +7,9 @@ class Solution {
 
         for (int i = 1; i <= goal; i++) {
             for (int j = 1; j <= n; j++) {
-                // Scenario 1: The last song added is a new song
+                
                 long newSongChoices = dp[i - 1][j - 1] * (n - j + 1) % MOD;
                 dp[i][j] = (dp[i][j] + newSongChoices) % MOD;
-                
-                // Scenario 2: The last song added is a repeated old song
                 if (j > k) {
                     long oldSongChoices = dp[i - 1][j] * (j - k) % MOD;
                     dp[i][j] = (dp[i][j] + oldSongChoices) % MOD;
