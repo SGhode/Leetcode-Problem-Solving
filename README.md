@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0091-decode-ways) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
