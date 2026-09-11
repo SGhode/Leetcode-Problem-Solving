@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
