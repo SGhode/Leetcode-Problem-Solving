@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
 | [3871-count-commas-in-range-ii](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3871-count-commas-in-range-ii) |
 ## Memoization
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
