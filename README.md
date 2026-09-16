@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3871-count-commas-in-range-ii) |
 ## Memoization
 |  |
@@ -186,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Tree
 |  |
 | ------- |
