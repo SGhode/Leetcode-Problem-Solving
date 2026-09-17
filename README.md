@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
