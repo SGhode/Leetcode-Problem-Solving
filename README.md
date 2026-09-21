@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
 | [3871-count-commas-in-range-ii](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3871-count-commas-in-range-ii) |
 ## Memoization
 |  |
