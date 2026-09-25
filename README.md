@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
 | [3498-reverse-degree-of-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
@@ -276,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
