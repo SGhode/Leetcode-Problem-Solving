@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -266,10 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
