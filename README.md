@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0089-gray-code) |
 ## Quicksort
 |  |
 | ------- |
