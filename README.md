@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0200-number-of-islands) |
@@ -262,11 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Manacher
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
