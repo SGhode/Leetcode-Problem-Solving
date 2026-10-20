@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 ## Simulation
 |  |
 | ------- |
