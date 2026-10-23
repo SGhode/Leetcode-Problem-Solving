@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0338-counting-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
