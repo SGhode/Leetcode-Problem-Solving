@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [1254-number-of-closed-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [1254-number-of-closed-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [1254-number-of-closed-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
@@ -259,11 +262,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [1254-number-of-closed-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 ## Prefix Sum
 |  |
 | ------- |
