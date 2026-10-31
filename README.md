@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3903-smallest-stable-index-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [1254-number-of-closed-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
