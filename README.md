@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [0920-number-of-music-playlists](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0920-number-of-music-playlists) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
