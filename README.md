@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/0067-add-binary) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/SGhode/Leetcode-Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
